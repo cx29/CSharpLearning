@@ -2,6 +2,7 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2cd0f256_002De997_002D4979_002Dabb5_002Dc70adb22fda4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::52E6B27A-5F30-4B8D-B434-8911FD1AFE2E::net8.0::CSharpLearning.CSharpLearning.Tests.ArrayTest.Test1&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::52E6B27A-5F30-4B8D-B434-8911FD1AFE2E::net8.0::CSharpLearning.CSharpLearning.Tests.FlagsEnumTest.Test&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=524d848c_002D6d19_002D4a1d_002Da94b_002D522ee82ffd17/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
