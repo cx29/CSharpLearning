@@ -3,16 +3,17 @@ using StrategicMode.Interface;
 
 namespace StrategicMode.DoMain
 {
-    public class ComparisonFunctionA:IComparisonStrategy
+    public class ComparisonFunctionA:IComparisonStrategy<int>
     {
-        public ComparisonResult Compare(object source, ComparisonContext context = null)
+        public ComparisonResult<int> Compare(int source, ComparisonContext context = null)
         {
-            var a=new ComparisonResult
+            return new ComparisonResult<int>()
             {
-                Type = "A"
+                Type = "EvenCheck", //设置类型标识
+                Result = true,
+                Value = source,
+                Message = "OK",
             };
-
-            return a;
         }
     }
 }
